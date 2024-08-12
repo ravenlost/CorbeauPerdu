@@ -1,4 +1,9 @@
 # CorbeauPerdu
+
+<p>
+<b>DISCLAIMER</b>: I've done these for a personal project of mine, and more specifically, as a means to a playground to re-familiarize myself with some of the basics in OOP. Most of these could be replaced by actual, better frameworks, such as <a href="https://laravel.com/">Laravel</a>.
+</p>
+
 PHP Classes:
 
 <ol>
